@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gazete Uygulamasi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home_title">Home</string>
+    <string name="nav_fav_title">Favourite</string>
+    <string name="samplenewsdescription">
+        Whereas prior versions of the search engine may have overlooked words such as “can” and “to,” the new software is able to help evaluate whether those change the intent of a search, Google said.
+    </string>
+    <string name="went_wrong">It seems Disconnection for Network \nor\n Something went wrong !</string>
+    <string name="ac_bookmark_added">BookMark Added Successfully !</string>
+    <string name="ac_bookmark_removed">BookMark Removed Succesfully !</string>
+    <string name="home_news_title">News Headline</string>
+    <string name="fav_news_title">Favourites</string>
+</resources>
